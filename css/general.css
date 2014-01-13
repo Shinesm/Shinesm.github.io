@@ -1,0 +1,30 @@
+body
+{
+  font-family: sans-serif;
+}
+
+div#footer
+{
+  margin-top: 120px;
+  margin-bottom: 4px;
+  border-top: 1px dashed #808080;
+  color: #808080;
+}
+
+a:visited
+{ 
+  color: #666699;
+  text-decoration: none;
+}
+
+a:link
+{ 
+  color: #3377AA;
+  text-decoration: none;
+}
+
+del
+{
+  color: #808080;
+}
+
